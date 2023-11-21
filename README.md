@@ -1,7 +1,6 @@
 # JAVA22-TDD-miniproject1-bjorn-bergstrom
 
-## A miniproject with Unit Testing from the Test-Driven Development course in Java
-
+### A mini-project integrating Unit Testing within the Test-Driven Development course in Java
 Testing code is crucial to save time on debugging and helps other developers understand how the program works. As projects grow and deadlines approach, reluctance to make significant changes can arise due to fear of extensive debugging.
 
 In this project, I found it interesting to learn about testing user input using the System.setIn() method. It was entirely new to me and is crucial for testing and refining the program for erroneous inputs.
