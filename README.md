@@ -1,6 +1,6 @@
 # JAVA22-TDD-miniproject1-bjorn-bergstrom
 
-#The course on Test-Driven Development in Java
+## The course on Test-Driven Development in Java
 
 Testing code is crucial to save time on debugging and helps other developers understand how the program works. As projects grow and deadlines approach, reluctance to make significant changes can arise due to fear of extensive debugging.
 
